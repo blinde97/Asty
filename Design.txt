@@ -1,0 +1,10 @@
+Genre: MultiDirectional Shooter - like Asteroid
+Name: Asty's Rescue
+Backstory: The main character of the game is an Astronaut named Asty, who, 
+while on his most recent mission, lost his girlfriend in the middle of space. 
+He thinks that some Martians are behind it, so decides to launch a one man attack 
+on the Martians to get his girlfriend back. 
+Goal: The goal is to get back the levels of Martian attack to reach Asty's girlfriend. 
+The levels differ because the Martian attacks get more and more complicated-they start
+ out very simple, coming from only one direction, but by the end, the attack is 
+ coming from all around. 
